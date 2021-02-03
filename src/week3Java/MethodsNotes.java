@@ -19,6 +19,12 @@ public class MethodsNotes {
 	public static String createFullName(String x, String y) { 
 		return  x + " " + y;
 		
+		//access modifier
+		//return data type
+		//method name
+		//parameter
+		//method body
+		
 		
 		
 	}
